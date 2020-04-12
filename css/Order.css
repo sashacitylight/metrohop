@@ -1,0 +1,48 @@
+.numberFieldOrder{
+    width: 200px;
+    -webkit-appearance: none;
+    cursor:pointer;
+    display:block;
+    font-size: 16px;
+    color: #333;
+    text-align:center;
+    position:relative;
+}
+
+.starsOrders{
+    color: #000000;
+    font-size: 15px;
+    height: 57px;
+    margin: 41px 26px;
+    position: absolute;
+    width: 146px;
+}
+
+#defaultReal2{
+    width: 251px;
+}
+
+.infoLayer h2{
+    color: #ffffff !important;
+}
+
+.fieldTextOrder{
+    color:#894d12 !important;
+}
+
+.myimg{
+    width: 107px;
+}
+
+.fieldTextOrder{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+

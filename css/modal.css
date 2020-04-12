@@ -1,0 +1,273 @@
+#overlay {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background: #000;
+    opacity: 0.7;
+    z-index: 200;
+    width: 100%;
+    height: 100%;
+    display: none;
+}
+
+#overlayDark {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background: #000;
+    opacity: 0.7;
+    z-index: 200;
+    width: 100%;
+    height: 100%;
+    display: none;
+}
+
+.modalUserCabinet{
+    position: fixed;
+    width: 800px;
+    height: 500px;
+    left: 260px;
+    top:81px;
+    background: #f2f3f3;
+    text-align: center;
+    z-index: 9000;
+    display: none;
+    border-radius: 100px;
+    border:1px solid black;
+}
+
+.imageUserCabinet{
+    width:216px;
+    height: auto;
+    border: 0px solid #000000;
+    border-radius: 20px;
+}
+
+#clickDownToSite{
+    width: auto;
+    position: absolute;
+    margin: 216px -137px;
+}
+
+.toPersonalAccount{
+    position: absolute;
+    margin: 216px 40px;
+}
+
+.tdInfoAbout{
+    border-radius: 10px;
+    background: whitesmoke;
+    text-align: center;
+    border:1px solid lightyellow;
+}
+
+.tableCabinet{
+    width: 200px;
+    height: auto;
+    margin: 10px 46px;
+    position: absolute;
+}
+
+.tableCabinet td{
+    width: auto;
+    height: auto;
+}
+
+.closeModalUserRegBackToSite{
+    position: absolute;
+    margin:200px 100px;
+}
+
+.closeModalUserCabinet{
+    height: 59px;
+    width: 61px;
+    float: right;
+    margin-right: 10px;
+}
+
+.closeModalUserCabinet:hover{
+    height: 84px;
+    width: 87px;
+}
+
+.userNumberOrder{
+    background: lightyellow;
+}
+
+
+.modalBuyProductToCartWrapper{
+    background: none repeat scroll 0 0 #ffffff;
+    height: 577px;
+    position: fixed;
+    margin-left:263px;
+    width: 905px;
+    z-index: 8000;
+    display: block;
+    border-radius: 26px;
+    border: 2px solid darkorange;
+}
+
+.modalBuyProductToCart{
+    height: auto;
+    width: 110px;
+    margin:31px 10px;
+}
+
+.biographyClick{
+    color: #000000;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.biographyClick:hover{
+    text-decoration: none;
+}
+
+.biographyDiv{
+    background: none repeat scroll 0 0 #ffffff;
+    border: 2px solid darkorange;
+    border-radius: 26px;
+    display: none;
+    height: auto;
+    /* position: fixed; */
+    width: 100%;
+    height: 400px;
+    display: none;
+    left: 0px;
+    margin-top:0px;
+    position: relative;
+    z-index: 11000;
+    text-align: left;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
+.biographyDiv p{
+    margin:10px;
+    color: #894d12;
+}
+
+.closeBiography{
+    float: right;
+    right: -2px;
+    width: 20px;
+}
+
+.closeBiography:hover{
+    width: 24px;
+}
+
+#modalBuyProductToCartInternalBlock{
+    width: 721px;
+    margin: 0px auto 0px;
+    background: #FFFFFF;
+    padding: 10px;
+    font-size: 12px;
+    margin-top: 35px;
+}
+
+#modalBuyProductToCartWrapperID{
+    width: 778px;
+    height: 737px;
+    margin-top:-149px;
+    display: none;
+}
+
+#modalBuyProductToCartID{
+    margin-left: 29px;
+}
+
+.upperDivCurrentBuyProduct{
+    width: 100%;;
+    height: 274px;
+    text-align: center;
+}
+
+ul#productCurrentPanel li{
+    list-style: none;
+    margin-left: 228px;
+    /* float: left; */
+    height: 283px;
+    overflow: hidden;
+    /* margin: 0 4px; */
+    background: #DBDAE0;
+    color: #fff;
+    text-align: center;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    -moz-box-shadow: 0 1px 1px #777;
+    -webkit-box-shadow: 0 1px 1px #777;
+    box-shadow: 0 1px 1px #777;
+    color: #555;
+    width: 219px;
+}
+
+.divImgLettersLinkToCartLeft{
+    position: absolute;
+    margin:100px 500px;
+    width: 132px;
+}
+
+.imgLinkToCart{
+    width: 100px;
+
+}
+
+.divImgLettersLinkToCartLeft a{
+    text-decoration: underline;
+    cursor: pointer;
+    font-size: 15px;
+    color:#808080;
+}
+
+.divImgLettersLinkToCartLeft a:hover{
+    text-decoration: none;
+}
+
+.priceOne{
+    display: none;
+}
+
+.buyModalJquery{
+    margin: 31px -46px;
+}
+
+#modalNumber{
+    width: 41px;
+}
+
+.modalNumberClick{
+    width: 41px;
+}
+
+.letteringUnderCart{
+    margin-left: 19px;
+}
+
+.crossCloseModalProductToCart{
+    width: 30px;
+    height: 30px;
+    float: right;
+    margin-right: 1px;
+}
+
+.crossCloseModalProductToCart:hover{
+    width: 35px;
+    height: 35px;
+}
+
+#cartModalError{
+    position: absolute;
+    margin: 283px 200px;
+    width: 457px;
+    color: orangered;
+    font-size: 15px;
+    background: white;
+    display: none;
+}
+
+#cartModalError p
+{
+    color: orangered;
+}

@@ -1,0 +1,106 @@
+.Search{
+    position: fixed;
+    margin-left: 100px;
+}
+
+#searchForm{
+    text-align: center;
+}
+
+#rowLeft{
+    margin-left:15px;
+}
+
+.mymodal{
+    background: white;
+    position: fixed;
+    margin: 168px 467px;
+    width: 284px;
+    height: 144px;
+}
+
+#loginDialog{
+    display: none;
+    z-index: 900 !important;
+    position: fixed;
+}
+
+#loginForm{
+    z-index: 900 !important;
+    position: fixed;
+}
+
+#easy_zoom{
+    margin-left: 100px !important;
+    margin-top: 120px !important;
+}
+
+.mainWrapper{
+    color: #000000;
+    margin-left: 150px;
+    width: 941px;
+    height: 2400px;
+
+    /* IE10 Consumer Preview */
+    background-image: -ms-radial-gradient(center, circle farthest-corner, #FFFFFF 0%, #E3E3E3 100%);
+    /* Mozilla Firefox */
+    background-image: -moz-radial-gradient(center, circle farthest-corner, #FFFFFF 0%, #E3E3E3 100%);
+    /* Opera */
+    background-image: -o-radial-gradient(center, circle farthest-corner, #FFFFFF 0%, #E3E3E3 100%);
+    /* Webkit (Safari/Chrome 10) */
+    background-image: -webkit-gradient(radial, center center, 0, center center, 505, color-stop(0, #FFFFFF), color-stop(1, #E3E3E3));
+    /* Webkit (Chrome 11+) */
+    background-image: -webkit-radial-gradient(center, circle farthest-corner, #FFFFFF 0%, #E3E3E3 100%);
+    /* W3C Markup, IE10 Release Preview */
+    background-image: radial-gradient(circle farthest-corner at center, #FFFFFF 0%, #E3E3E3 100%);
+    box-shadow: 0 0 10px rgba(0,0,0,1.5);
+}
+
+.leftTextClass{
+    width: 500px;
+    padding: 15px;
+}
+
+.leftTextClass ul li{
+    list-style-type: circle;
+    margin-top: 10px;
+}
+
+.imgSmallRight{
+    position: absolute;
+    margin-left: 541px;
+    width: 400px;
+}
+
+#imgIDFirst{
+    margin-top: 17px;
+}
+
+#imgIDSecond{
+    margin-top: 252px;
+}
+
+.imgLongWrapperClass{
+    width: 100%;
+    height: 380px;
+}
+
+.imgLongWrapperClass img{
+    width: 100%;
+}
+
+#imgRightID{
+    position: absolute;
+    margin: 22px 533px;
+}
+
+.leftTextClass span{
+    margin-left: 21px;
+}
+
+#longLeftTextID{
+    width: 98%;
+}
+#longLeftTextID p{
+    color: #000000;
+}

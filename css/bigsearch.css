@@ -1,0 +1,28 @@
+.example{
+    margin-left: 341px;
+    margin-top: -55px;
+}
+
+.example thead{
+    background: red;
+}
+
+.example thead tr{
+    background: red;
+    display: none;
+}
+
+.example tr{
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    /* IE10 Consumer Preview */
+    /* Webkit (Chrome 11+) */
+    background:#d3d3d3;
+    /* W3C Markup, IE10 Release Preview */
+    border: 1px solid #808080;
+    height: 400px;
+}
+
+.summary{
+    background: #d3d3d3;
+    color: #000000;
+}

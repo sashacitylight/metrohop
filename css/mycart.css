@@ -1,0 +1,226 @@
+.mainDivCart{
+    margin: 0px 23% 0px;
+    width:200px;
+}
+
+.buttonClearCart{
+    background: darkorange !important;
+    float: right;
+    margin: 0 37px;
+    color: #894d12 ;
+}
+
+.buttonClearCart:hover{
+    background: white !important;
+}
+
+.buttonTotalSumCart{
+    background: #894d12 !important;
+    float: right;
+    margin-right: -26px;
+    text-align: center;
+    border-radius: 31px !important;
+}
+
+.buks{
+    background: red !important;
+}
+
+.imgCartSummPanel{
+    width: 260px;
+}
+
+.sLink{
+    color: #894d12;
+    text-decoration: underline;
+}
+
+.sLink:hover{
+    text-decoration: none;
+}
+
+.summ{
+    margin-top: 31px;
+    position: absolute;
+    margin-left: 10px;
+    text-shadow: -5px 2px 1px rgba(161, 161, 161, 0.4);
+    text-decoration: underline;
+    font-family: Rockwell, "Courier Bold", Courier, Georgia, Times, "Times New Roman", serif;
+    color: #000000;
+    font-size: 22px;
+    padding: 14;
+    font-weight: bold;
+}
+
+.cartSummPanel{
+    margin: 0 31px;
+    width: 233px;
+    float: right;
+}
+
+.formOneProduct{
+    width: 200px;
+    height: 200px;
+}
+
+.cartOneProductNumberDiv{
+    border-bottom: 1px double grey;
+    width: 965px;
+}
+
+.imgOneProductCart{
+    background: none repeat scroll 0 0 greenyellow;
+    height: 177px;
+    margin: 11px 0 0;
+}
+
+.cartButtonDeleteProduct{
+    position: absolute;
+    margin: -53px 711px;
+    color:white !important;
+    background: darkorange !important;
+    border-radius: 29px !important;
+}
+
+.cartButtonDeleteProduct:hover{
+    background: #ffffff !important;
+    color:#894d12 !important;
+}
+
+.numberOneProductNumberCart{
+    margin-left: 325px;
+    margin-top: -42px;
+    position: absolute;
+    width: 47px;
+    height: 24px;
+    color:#894d12 !important;
+    font-size: 16px !important;
+    font-weight: bold;
+}
+
+#propertyFirstID{
+    width: 200px !important;
+    margin-left: 323px;
+    margin-top: -181px;
+    position: absolute;
+    text-align: center;
+    color: #894d12 !important;
+    font-size: 16px !important;
+    font-weight: bold;
+}
+
+#propertySecondID{
+    width: 200px !important;
+    margin-left: 323px;
+    margin-top: -135px;
+    position: absolute;
+    text-align: center;
+    color: #894d12 !important;
+    font-size: 16px !important;
+    font-weight: bold;
+}
+
+#letteringTotalSumm{
+    font-size: 26px;
+    width: 189px;
+    margin-left: 10px;
+    margin-top: -4px;
+    position: absolute;
+}
+
+.resultPriceTextField{
+    background: none repeat scroll 0 0 #fff6bf;
+    color: #329a1c;
+    font-size: 24px !important;
+    line-height: 1em;
+    margin: -56px 380px;
+
+    position: absolute;
+    width: 135px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.imgInCartEmpty{
+    width: 100px;
+    position: absolute;
+    margin: 37px 414px;
+}
+
+.spanOneProductTitleCart{
+    position: absolute;
+    margin: 114px 10px;
+    font-family: Rockwell, "Courier Bold", Courier, Georgia, Times, "Times New Roman", serif;
+    color: #894d12;
+    font-size: 22px;
+    padding: 14;
+    font-weight: bold;
+    text-shadow: -5px 2px 1px rgba(161, 161, 161, 0.4);
+    text-decoration: underline;
+}
+
+.spanOneProductTitleCart:hover{
+    text-decoration: none;
+}
+
+.spanOneProductPriceCart{
+    position: absolute;
+    color:#894d12 !important;
+    font-size: 2.65em;
+    line-height: 1em;
+    background: #FFF6BF;
+    margin: -43px 193px;
+}
+
+.cOrderButton{
+    background: none repeat scroll 0 0 green;
+    border-color: #6ec97a #d6e3d1 #d6e3d1 #6ec97a;
+    border-radius: 34px;
+    border-style: solid;
+    border-width: 1px;
+    color: #894d12 !important;
+    font-size: 16px;
+    height: 25px;
+    margin: -54px 16px 16px 541px;
+    position: absolute;
+    width:151px;
+    text-align: center;
+    padding: 0px;
+}
+
+.cOrderButton:hover{
+    background: none repeat scroll 0 0 darkorange !important;
+}
+
+.isEmptyCart{
+    position: absolute;
+    width: 490px;
+    height: 100px;
+    margin-left: 41%;
+    font-size: 20px;
+    margin-top: 3%;
+    display: block;
+    color:black;
+}
+
+.isEmptyCart p{
+    color:black;
+}
+
+.mainDivCart div{
+    width: 816px;
+    margin-left:-110px !important;
+    box-shadow: 0 0 10px rgba(0,0,0,1.5);
+    /* IE10 Consumer Preview */
+    background-image: -ms-radial-gradient(center, circle farthest-corner, #FFFFFF 0%, #E3E3E3 100%);
+    /* Mozilla Firefox */
+    background-image: -moz-radial-gradient(center, circle farthest-corner, #FFFFFF 0%, #E3E3E3 100%);
+    /* Opera */
+    background-image: -o-radial-gradient(center, circle farthest-corner, #FFFFFF 0%, #E3E3E3 100%);
+    /* Webkit (Safari/Chrome 10) */
+    background-image: -webkit-gradient(radial, center center, 0, center center, 505, color-stop(0, #FFFFFF), color-stop(1, #E3E3E3));
+    /* Webkit (Chrome 11+) */
+    background-image: -webkit-radial-gradient(center, circle farthest-corner, #FFFFFF 0%, #E3E3E3 100%);
+    /* W3C Markup, IE10 Release Preview */
+    background-image: radial-gradient(circle farthest-corner at center, #FFFFFF 0%, #E3E3E3 100%);
+}

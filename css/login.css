@@ -1,0 +1,21 @@
+#formAdmin{
+    margin-left: 45px;
+}
+
+.userLoginForm{
+    background: none repeat scroll 0 0 #ffffff;
+    border: 4px double black;
+    border-radius: 10px;
+    height: auto;
+    position: fixed;
+    top: 37px;
+    width: 400px !important;
+    position: fixed;
+    z-index: 900;
+
+}
+
+.userLoginForm td{
+    top: 50%;
+    left: 50%;
+}

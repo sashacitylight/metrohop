@@ -1,0 +1,2060 @@
+2020/04/11 17:41:36 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/js/jquery.lazyload.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/js/jquery.lazyload.js
+HTTP_REFERER=https://metrohop.site/site/ShowProductsSortingBySubCategories/1
+---
+2020/04/11 17:41:36 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/css/least.min.css". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/css/least.min.css
+HTTP_REFERER=https://metrohop.site/site/ShowProductsSortingBySubCategories/1
+---
+2020/04/11 17:41:36 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/js/least.min.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/js/least.min.js
+HTTP_REFERER=https://metrohop.site/site/ShowProductsSortingBySubCategories/1
+---
+2020/04/11 17:41:37 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "scripts/main/search.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('scripts/main/se...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/scripts/main/search.js
+HTTP_REFERER=https://metrohop.site/site/ShowProductsSortingBySubCategories/1
+---
+2020/04/11 17:41:37 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "scripts/product_description/jquery.magnify.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('scripts/product...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/scripts/product_description/jquery.magnify.js
+HTTP_REFERER=https://metrohop.site/site/ShowProductsSortingBySubCategories/1
+---
+2020/04/11 17:41:37 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "scripts/main/search.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('scripts/main/se...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/scripts/main/search.js
+HTTP_REFERER=https://metrohop.site/site/ShowProductsSortingBySubCategories/1
+---
+2020/04/11 17:41:40 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "ProductDescription/ProductDetailedDescription". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('ProductDescript...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ProductDescription/ProductDetailedDescription/386
+HTTP_REFERER=https://metrohop.site/site/ShowProductsSortingBySubCategories/1
+---
+2020/04/11 17:41:40 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/rate/css/base.css". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/rate/cs...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/rate/css/base.css
+HTTP_REFERER=https://metrohop.site/ProductDescription/ProductDetailedDescription/386
+---
+2020/04/11 17:41:40 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/rate/css/registration.css". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/rate/cs...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/rate/css/registration.css
+HTTP_REFERER=https://metrohop.site/ProductDescription/ProductDetailedDescription/386
+---
+2020/04/11 17:41:41 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/rate/stars.css". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/rate/st...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/rate/stars.css
+HTTP_REFERER=https://metrohop.site/ProductDescription/ProductDetailedDescription/386
+---
+2020/04/11 17:41:41 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/css/style.min.css". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/css/style.min.css
+HTTP_REFERER=https://metrohop.site/ProductDescription/ProductDetailedDescription/386
+---
+2020/04/11 17:41:41 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/css/least.min.css". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/css/least.min.css
+HTTP_REFERER=https://metrohop.site/ProductDescription/ProductDetailedDescription/386
+---
+2020/04/11 17:41:41 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/rate/script.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/rate/sc...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/rate/script.js
+HTTP_REFERER=https://metrohop.site/ProductDescription/ProductDetailedDescription/386
+---
+2020/04/11 17:41:41 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/js/jquery.lazyload.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/js/jquery.lazyload.js
+HTTP_REFERER=https://metrohop.site/ProductDescription/ProductDetailedDescription/386
+---
+2020/04/11 17:41:41 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "scripts/product_description/jquery.magnify.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('scripts/product...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/scripts/product_description/jquery.magnify.js
+HTTP_REFERER=https://metrohop.site/ProductDescription/ProductDetailedDescription/386
+---
+2020/04/11 17:41:41 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "scripts/main/search.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('scripts/main/se...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/scripts/main/search.js
+HTTP_REFERER=https://metrohop.site/ProductDescription/ProductDetailedDescription/386
+---
+2020/04/11 17:41:41 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/js/least.min.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/js/least.min.js
+HTTP_REFERER=https://metrohop.site/ProductDescription/ProductDetailedDescription/386
+---
+2020/04/11 17:41:41 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "ProductDescription/ProductDetailedDescription". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('ProductDescript...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ProductDescription/ProductDetailedDescription/1
+HTTP_REFERER=https://metrohop.site/ProductDescription/ProductDetailedDescription/386
+---
+2020/04/11 17:41:41 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/rate/css/registration.css". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/rate/cs...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/rate/css/registration.css
+HTTP_REFERER=https://metrohop.site/ProductDescription/ProductDetailedDescription/386
+---
+2020/04/11 17:41:41 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/rate/css/base.css". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/rate/cs...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/rate/css/base.css
+HTTP_REFERER=https://metrohop.site/ProductDescription/ProductDetailedDescription/386
+---
+2020/04/11 17:41:41 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/rate/stars.css". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/rate/st...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/rate/stars.css
+HTTP_REFERER=https://metrohop.site/ProductDescription/ProductDetailedDescription/386
+---
+2020/04/11 17:41:41 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/js/jquery.lazyload.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/js/jquery.lazyload.js
+HTTP_REFERER=https://metrohop.site/ProductDescription/ProductDetailedDescription/386
+---
+2020/04/11 17:41:41 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/css/least.min.css". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/css/least.min.css
+HTTP_REFERER=https://metrohop.site/ProductDescription/ProductDetailedDescription/386
+---
+2020/04/11 17:41:41 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/css/style.min.css". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/css/style.min.css
+HTTP_REFERER=https://metrohop.site/ProductDescription/ProductDetailedDescription/386
+---
+2020/04/11 17:41:41 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/js/least.min.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/js/least.min.js
+HTTP_REFERER=https://metrohop.site/ProductDescription/ProductDetailedDescription/386
+---
+2020/04/11 17:41:41 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "scripts/product_description/jquery.magnify.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('scripts/product...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/scripts/product_description/jquery.magnify.js
+HTTP_REFERER=https://metrohop.site/ProductDescription/ProductDetailedDescription/386
+---
+2020/04/11 17:41:41 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "ProductDescription/ProductDetailedDescription". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('ProductDescript...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ProductDescription/ProductDetailedDescription/1
+HTTP_REFERER=https://metrohop.site/ProductDescription/ProductDetailedDescription/386
+---
+2020/04/11 17:41:42 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "scripts/main/search.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('scripts/main/se...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/scripts/main/search.js
+HTTP_REFERER=https://metrohop.site/ProductDescription/ProductDetailedDescription/386
+---
+2020/04/11 17:51:30 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "ProductDescription/ProductDetailedDescription". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('ProductDescript...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ProductDescription/ProductDetailedDescription/386
+HTTP_REFERER=https://metrohop.site/site/ShowProductsSortingBySubCategories/1
+---
+2020/04/11 17:51:31 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/js/jquery.lazyload.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/js/jquery.lazyload.js
+HTTP_REFERER=https://metrohop.site/ProductDescription/ProductDetailedDescription/386
+---
+2020/04/11 17:51:31 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "scripts/main/search.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('scripts/main/se...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/scripts/main/search.js
+HTTP_REFERER=https://metrohop.site/ProductDescription/ProductDetailedDescription/386
+---
+2020/04/11 17:51:31 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "ProductDescription/ProductDetailedDescription". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('ProductDescript...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ProductDescription/ProductDetailedDescription/1
+HTTP_REFERER=https://metrohop.site/ProductDescription/ProductDetailedDescription/386
+---
+2020/04/11 17:51:32 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/js/least.min.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/js/least.min.js
+HTTP_REFERER=https://metrohop.site/ProductDescription/ProductDetailedDescription/386
+---
+2020/04/11 17:51:32 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/css/style.min.css". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/css/style.min.css
+HTTP_REFERER=https://metrohop.site/ProductDescription/ProductDetailedDescription/386
+---
+2020/04/11 17:51:32 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/rate/script.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/rate/sc...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/rate/script.js
+HTTP_REFERER=https://metrohop.site/ProductDescription/ProductDetailedDescription/386
+---
+2020/04/11 17:51:32 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "scripts/product_description/jquery.magnify.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('scripts/product...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/scripts/product_description/jquery.magnify.js
+HTTP_REFERER=https://metrohop.site/ProductDescription/ProductDetailedDescription/386
+---
+2020/04/11 17:51:32 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/rate/stars.css". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/rate/st...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/rate/stars.css
+HTTP_REFERER=https://metrohop.site/ProductDescription/ProductDetailedDescription/386
+---
+2020/04/11 17:51:32 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/css/least.min.css". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/css/least.min.css
+HTTP_REFERER=https://metrohop.site/ProductDescription/ProductDetailedDescription/386
+---
+2020/04/11 17:51:32 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/rate/css/base.css". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/rate/cs...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/rate/css/base.css
+HTTP_REFERER=https://metrohop.site/ProductDescription/ProductDetailedDescription/386
+---
+2020/04/11 17:51:32 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/rate/css/registration.css". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/rate/cs...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/rate/css/registration.css
+HTTP_REFERER=https://metrohop.site/ProductDescription/ProductDetailedDescription/386
+---
+2020/04/11 17:51:33 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/js/jquery.lazyload.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/js/jquery.lazyload.js
+HTTP_REFERER=https://metrohop.site/ProductDescription/ProductDetailedDescription/386
+---
+2020/04/11 17:51:33 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/css/style.min.css". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/css/style.min.css
+HTTP_REFERER=https://metrohop.site/ProductDescription/ProductDetailedDescription/386
+---
+2020/04/11 17:51:33 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/css/least.min.css". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/css/least.min.css
+HTTP_REFERER=https://metrohop.site/ProductDescription/ProductDetailedDescription/386
+---
+2020/04/11 17:51:33 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/js/least.min.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/js/least.min.js
+HTTP_REFERER=https://metrohop.site/ProductDescription/ProductDetailedDescription/386
+---
+2020/04/11 17:51:33 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "scripts/product_description/jquery.magnify.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('scripts/product...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/scripts/product_description/jquery.magnify.js
+HTTP_REFERER=https://metrohop.site/ProductDescription/ProductDetailedDescription/386
+---
+2020/04/11 17:51:33 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "ProductDescription/ProductDetailedDescription". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('ProductDescript...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ProductDescription/ProductDetailedDescription/1
+HTTP_REFERER=https://metrohop.site/ProductDescription/ProductDetailedDescription/386
+---
+2020/04/11 17:51:33 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "scripts/main/search.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('scripts/main/se...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/scripts/main/search.js
+HTTP_REFERER=https://metrohop.site/ProductDescription/ProductDetailedDescription/386
+---
+2020/04/11 17:51:40 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/rate/script.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/rate/sc...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/rate/script.js
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/387
+---
+2020/04/11 17:51:40 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/js/jquery.lazyload.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/js/jquery.lazyload.js
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/387
+---
+2020/04/11 17:51:40 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/js/least.min.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/js/least.min.js
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/387
+---
+2020/04/11 17:51:40 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "scripts/product_description/jquery.magnify.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('scripts/product...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/scripts/product_description/jquery.magnify.js
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/387
+---
+2020/04/11 17:51:40 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "scripts/main/search.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('scripts/main/se...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/scripts/main/search.js
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/387
+---
+2020/04/11 17:51:40 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/rate/css/registration.css". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/rate/cs...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/rate/css/registration.css
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/387
+---
+2020/04/11 17:51:40 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/rate/css/base.css". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/rate/cs...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/rate/css/base.css
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/387
+---
+2020/04/11 17:51:40 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/css/style.min.css". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/css/style.min.css
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/387
+---
+2020/04/11 17:51:40 [error] [exception.Error] Error: Using $this when not in object context in /var/www/u0764921/public_html/metrohop.site/protected/models/Product.php:160
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/protected/controllers/ProductdescriptionController.php(17): Product::loadModel('1')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/actions/CInlineAction.php(49): ProductdescriptionController->actionProductdetaileddescription()
+#2 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#3 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#4 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#5 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(282): CController->run('ProductDetailed...')
+#6 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Productdescript...')
+#7 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#8 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/Productdescription/ProductDetailedDescription/1
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/387
+---
+2020/04/11 17:51:40 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/css/least.min.css". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/css/least.min.css
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/387
+---
+2020/04/11 17:51:41 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/rate/stars.css". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/rate/st...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/rate/stars.css
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/387
+---
+2020/04/11 17:51:41 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/css/style.min.css". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/css/style.min.css
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/387
+---
+2020/04/11 17:51:41 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/css/least.min.css". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/css/least.min.css
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/387
+---
+2020/04/11 17:51:41 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/js/jquery.lazyload.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/js/jquery.lazyload.js
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/387
+---
+2020/04/11 17:51:41 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/js/least.min.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/js/least.min.js
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/387
+---
+2020/04/11 17:51:41 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "scripts/product_description/jquery.magnify.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('scripts/product...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/scripts/product_description/jquery.magnify.js
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/387
+---
+2020/04/11 17:51:41 [error] [exception.Error] Error: Using $this when not in object context in /var/www/u0764921/public_html/metrohop.site/protected/models/Product.php:160
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/protected/controllers/ProductdescriptionController.php(17): Product::loadModel('1')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/actions/CInlineAction.php(49): ProductdescriptionController->actionProductdetaileddescription()
+#2 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#3 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#4 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#5 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(282): CController->run('ProductDetailed...')
+#6 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Productdescript...')
+#7 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#8 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/Productdescription/ProductDetailedDescription/1
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/387
+---
+2020/04/11 17:51:41 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "scripts/main/search.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('scripts/main/se...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/scripts/main/search.js
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/387
+---
+2020/04/11 17:51:42 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "wimg/buyer/sprite/bp-icon.png". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('wimg/buyer/spri...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/wimg/buyer/sprite/bp-icon.png?t=421d67f9_0
+HTTP_REFERER=https://metrohop.site/css/details_info.css
+---
+2020/04/11 17:51:50 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "scripts/product_description/jquery.magnify.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('scripts/product...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/scripts/product_description/jquery.magnify.js
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:51:50 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/js/least.min.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/js/least.min.js
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:51:50 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/js/jquery.lazyload.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/js/jquery.lazyload.js
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:51:50 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "scripts/main/search.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('scripts/main/se...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/scripts/main/search.js
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:51:50 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/rate/script.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/rate/sc...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/rate/script.js
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:51:50 [error] [exception.Error] Error: Using $this when not in object context in /var/www/u0764921/public_html/metrohop.site/protected/models/Product.php:160
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/protected/controllers/ProductdescriptionController.php(17): Product::loadModel('1')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/actions/CInlineAction.php(49): ProductdescriptionController->actionProductdetaileddescription()
+#2 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#3 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#4 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#5 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(282): CController->run('ProductDetailed...')
+#6 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Productdescript...')
+#7 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#8 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/Productdescription/ProductDetailedDescription/1
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:51:50 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/rate/stars.css". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/rate/st...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/rate/stars.css
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:51:50 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/rate/css/registration.css". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/rate/cs...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/rate/css/registration.css
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:51:50 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/css/style.min.css". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/css/style.min.css
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:51:50 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/css/least.min.css". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/css/least.min.css
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:51:50 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/rate/css/base.css". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/rate/cs...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/rate/css/base.css
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:51:50 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/js/jquery.lazyload.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/js/jquery.lazyload.js
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:51:51 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/css/style.min.css". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/css/style.min.css
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:51:51 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/css/least.min.css". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/css/least.min.css
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:51:51 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/js/least.min.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/js/least.min.js
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:51:51 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "scripts/product_description/jquery.magnify.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('scripts/product...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/scripts/product_description/jquery.magnify.js
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:51:51 [error] [exception.Error] Error: Using $this when not in object context in /var/www/u0764921/public_html/metrohop.site/protected/models/Product.php:160
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/protected/controllers/ProductdescriptionController.php(17): Product::loadModel('1')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/actions/CInlineAction.php(49): ProductdescriptionController->actionProductdetaileddescription()
+#2 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#3 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#4 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#5 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(282): CController->run('ProductDetailed...')
+#6 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Productdescript...')
+#7 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#8 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/Productdescription/ProductDetailedDescription/1
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:51:51 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "scripts/main/search.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('scripts/main/se...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/scripts/main/search.js
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:51:51 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "wimg/buyer/sprite/bp-icon.png". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('wimg/buyer/spri...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/wimg/buyer/sprite/bp-icon.png?t=421d67f9_0
+HTTP_REFERER=https://metrohop.site/css/details_info.css
+---
+2020/04/11 17:51:59 [error] [exception.CException] CException: Контроллер GalleryController не может найти представление "index". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CController.php:878
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CController.php(782): CController->renderPartial('index', Array, true)
+#1 /var/www/u0764921/public_html/metrohop.site/protected/controllers/GalleryController.php(20): CController->render('index', Array)
+#2 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/actions/CInlineAction.php(49): GalleryController->actionIndex()
+#3 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#4 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#5 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(282): CController->run('index')
+#7 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Gallery/index')
+#8 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#9 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#10 {main}
+REQUEST_URI=/Gallery/index/386
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:52:09 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/rate/script.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/rate/sc...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/rate/script.js
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:52:09 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/rate/css/registration.css". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/rate/cs...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/rate/css/registration.css
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:52:09 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "scripts/main/search.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('scripts/main/se...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/scripts/main/search.js
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:52:09 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/rate/css/base.css". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/rate/cs...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/rate/css/base.css
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:52:09 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "scripts/product_description/jquery.magnify.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('scripts/product...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/scripts/product_description/jquery.magnify.js
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:52:09 [error] [exception.Error] Error: Using $this when not in object context in /var/www/u0764921/public_html/metrohop.site/protected/models/Product.php:160
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/protected/controllers/ProductdescriptionController.php(17): Product::loadModel('1')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/actions/CInlineAction.php(49): ProductdescriptionController->actionProductdetaileddescription()
+#2 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#3 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#4 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#5 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(282): CController->run('ProductDetailed...')
+#6 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Productdescript...')
+#7 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#8 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/Productdescription/ProductDetailedDescription/1
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:52:09 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/js/jquery.lazyload.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/js/jquery.lazyload.js
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:52:09 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/js/least.min.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/js/least.min.js
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:52:09 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/css/style.min.css". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/css/style.min.css
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:52:09 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/css/least.min.css". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/css/least.min.css
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:52:10 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/rate/stars.css". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/rate/st...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/rate/stars.css
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:52:10 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/js/jquery.lazyload.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/js/jquery.lazyload.js
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:52:10 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/css/style.min.css". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/css/style.min.css
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:52:10 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/css/least.min.css". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/css/least.min.css
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:52:10 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/js/least.min.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/js/least.min.js
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:52:10 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "scripts/product_description/jquery.magnify.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('scripts/product...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/scripts/product_description/jquery.magnify.js
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:52:10 [error] [exception.Error] Error: Using $this when not in object context in /var/www/u0764921/public_html/metrohop.site/protected/models/Product.php:160
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/protected/controllers/ProductdescriptionController.php(17): Product::loadModel('1')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/actions/CInlineAction.php(49): ProductdescriptionController->actionProductdetaileddescription()
+#2 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#3 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#4 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#5 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(282): CController->run('ProductDetailed...')
+#6 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Productdescript...')
+#7 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#8 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/Productdescription/ProductDetailedDescription/1
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:52:10 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "scripts/main/search.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('scripts/main/se...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/scripts/main/search.js
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:52:11 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "wimg/buyer/sprite/bp-icon.png". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('wimg/buyer/spri...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/wimg/buyer/sprite/bp-icon.png?t=421d67f9_0
+HTTP_REFERER=https://metrohop.site/css/details_info.css
+---
+2020/04/11 17:52:27 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "fonts/redesign2/PTN77F_W.woff". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('fonts/redesign2...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/redesign2/PTN77F_W.woff
+HTTP_REFERER=https://metrohop.site/css/mainfrom.css
+---
+2020/04/11 17:52:27 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "fonts/redesign2/PTN77F_W.ttf". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('fonts/redesign2...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/redesign2/PTN77F_W.ttf
+HTTP_REFERER=https://metrohop.site/css/mainfrom.css
+---
+2020/04/11 17:52:31 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/rate/script.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/rate/sc...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/rate/script.js
+HTTP_REFERER=https://metrohop.site/Cart/LinkToCart
+---
+2020/04/11 17:52:31 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/rate/css/base.css". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/rate/cs...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/rate/css/base.css
+HTTP_REFERER=https://metrohop.site/Cart/LinkToCart
+---
+2020/04/11 17:52:31 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/css/style.min.css". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/css/style.min.css
+HTTP_REFERER=https://metrohop.site/Cart/LinkToCart
+---
+2020/04/11 17:52:31 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/rate/css/registration.css". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/rate/cs...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/rate/css/registration.css
+HTTP_REFERER=https://metrohop.site/Cart/LinkToCart
+---
+2020/04/11 17:52:31 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/rate/stars.css". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/rate/st...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/rate/stars.css
+HTTP_REFERER=https://metrohop.site/Cart/LinkToCart
+---
+2020/04/11 17:52:31 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/js/least.min.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/js/least.min.js
+HTTP_REFERER=https://metrohop.site/Cart/LinkToCart
+---
+2020/04/11 17:52:31 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/js/jquery.lazyload.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/js/jquery.lazyload.js
+HTTP_REFERER=https://metrohop.site/Cart/LinkToCart
+---
+2020/04/11 17:52:31 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "scripts/product_description/jquery.magnify.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('scripts/product...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/scripts/product_description/jquery.magnify.js
+HTTP_REFERER=https://metrohop.site/Cart/LinkToCart
+---
+2020/04/11 17:52:31 [error] [exception.CHttpException.404] CHttpException: Системе не удалось найти запрашиваемое действие "view". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CController.php(270): CController->missingAction('view')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(282): CController->run('view')
+#2 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Cart/view')
+#3 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/Cart/1
+HTTP_REFERER=https://metrohop.site/Cart/LinkToCart
+---
+2020/04/11 17:52:31 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/css/least.min.css". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/css/least.min.css
+HTTP_REFERER=https://metrohop.site/Cart/LinkToCart
+---
+2020/04/11 17:52:31 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/css/style.min.css". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/css/style.min.css
+HTTP_REFERER=https://metrohop.site/Cart/LinkToCart
+---
+2020/04/11 17:52:31 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/js/least.min.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/js/least.min.js
+HTTP_REFERER=https://metrohop.site/Cart/LinkToCart
+---
+2020/04/11 17:52:31 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "scripts/product_description/jquery.magnify.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('scripts/product...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/scripts/product_description/jquery.magnify.js
+HTTP_REFERER=https://metrohop.site/Cart/LinkToCart
+---
+2020/04/11 17:52:31 [error] [exception.CHttpException.404] CHttpException: Системе не удалось найти запрашиваемое действие "view". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CController.php(270): CController->missingAction('view')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(282): CController->run('view')
+#2 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Cart/view')
+#3 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/Cart/1
+HTTP_REFERER=https://metrohop.site/Cart/LinkToCart
+---
+2020/04/11 17:52:32 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "scripts/main/search.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('scripts/main/se...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/scripts/main/search.js
+HTTP_REFERER=https://metrohop.site/Cart/LinkToCart
+---
+2020/04/11 17:52:34 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/rate/css/base.css". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/rate/cs...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/rate/css/base.css
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:52:34 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/rate/script.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/rate/sc...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/rate/script.js
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:52:34 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/js/jquery.lazyload.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/js/jquery.lazyload.js
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:52:34 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "scripts/main/search.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('scripts/main/se...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/scripts/main/search.js
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:52:34 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/js/least.min.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/js/least.min.js
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:52:34 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "scripts/product_description/jquery.magnify.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('scripts/product...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/scripts/product_description/jquery.magnify.js
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:52:35 [error] [exception.Error] Error: Using $this when not in object context in /var/www/u0764921/public_html/metrohop.site/protected/models/Product.php:160
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/protected/controllers/ProductdescriptionController.php(17): Product::loadModel('1')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/actions/CInlineAction.php(49): ProductdescriptionController->actionProductdetaileddescription()
+#2 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#3 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#4 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#5 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(282): CController->run('ProductDetailed...')
+#6 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Productdescript...')
+#7 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#8 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/Productdescription/ProductDetailedDescription/1
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:52:35 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/css/least.min.css". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/css/least.min.css
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:52:35 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/rate/css/registration.css". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/rate/cs...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/rate/css/registration.css
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:52:35 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/rate/stars.css". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/rate/st...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/rate/stars.css
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:52:35 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/css/style.min.css". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/css/style.min.css
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:52:35 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/js/jquery.lazyload.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/js/jquery.lazyload.js
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:52:35 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/css/least.min.css". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/css/least.min.css
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:52:35 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/js/least.min.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/js/least.min.js
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:52:35 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "scripts/product_description/jquery.magnify.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('scripts/product...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/scripts/product_description/jquery.magnify.js
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:52:35 [error] [exception.Error] Error: Using $this when not in object context in /var/www/u0764921/public_html/metrohop.site/protected/models/Product.php:160
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/protected/controllers/ProductdescriptionController.php(17): Product::loadModel('1')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/actions/CInlineAction.php(49): ProductdescriptionController->actionProductdetaileddescription()
+#2 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#3 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#4 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#5 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(282): CController->run('ProductDetailed...')
+#6 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Productdescript...')
+#7 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#8 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/Productdescription/ProductDetailedDescription/1
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:52:35 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "scripts/main/search.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('scripts/main/se...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/scripts/main/search.js
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:52:35 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "wimg/buyer/sprite/bp-icon.png". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('wimg/buyer/spri...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/wimg/buyer/sprite/bp-icon.png?t=421d67f9_0
+HTTP_REFERER=https://metrohop.site/css/details_info.css
+---
+2020/04/11 17:53:20 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/js/jquery.lazyload.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/js/jquery.lazyload.js
+HTTP_REFERER=https://metrohop.site/Cart/LinkToCart
+---
+2020/04/11 17:53:20 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/rate/script.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/rate/sc...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/rate/script.js
+HTTP_REFERER=https://metrohop.site/Cart/LinkToCart
+---
+2020/04/11 17:53:20 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/js/least.min.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/js/least.min.js
+HTTP_REFERER=https://metrohop.site/Cart/LinkToCart
+---
+2020/04/11 17:53:20 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "scripts/main/search.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('scripts/main/se...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/scripts/main/search.js
+HTTP_REFERER=https://metrohop.site/Cart/LinkToCart
+---
+2020/04/11 17:53:20 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "scripts/product_description/jquery.magnify.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('scripts/product...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/scripts/product_description/jquery.magnify.js
+HTTP_REFERER=https://metrohop.site/Cart/LinkToCart
+---
+2020/04/11 17:53:20 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/rate/css/registration.css". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/rate/cs...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/rate/css/registration.css
+HTTP_REFERER=https://metrohop.site/Cart/LinkToCart
+---
+2020/04/11 17:53:20 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/css/least.min.css". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/css/least.min.css
+HTTP_REFERER=https://metrohop.site/Cart/LinkToCart
+---
+2020/04/11 17:53:20 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/rate/css/base.css". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/rate/cs...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/rate/css/base.css
+HTTP_REFERER=https://metrohop.site/Cart/LinkToCart
+---
+2020/04/11 17:53:20 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/rate/stars.css". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/rate/st...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/rate/stars.css
+HTTP_REFERER=https://metrohop.site/Cart/LinkToCart
+---
+2020/04/11 17:53:20 [error] [exception.CHttpException.404] CHttpException: Системе не удалось найти запрашиваемое действие "view". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CController.php(270): CController->missingAction('view')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(282): CController->run('view')
+#2 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Cart/view')
+#3 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/Cart/1
+HTTP_REFERER=https://metrohop.site/Cart/LinkToCart
+---
+2020/04/11 17:53:20 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/css/style.min.css". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/css/style.min.css
+HTTP_REFERER=https://metrohop.site/Cart/LinkToCart
+---
+2020/04/11 17:53:20 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/js/jquery.lazyload.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/js/jquery.lazyload.js
+HTTP_REFERER=https://metrohop.site/Cart/LinkToCart
+---
+2020/04/11 17:53:20 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/css/least.min.css". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/css/least.min.css
+HTTP_REFERER=https://metrohop.site/Cart/LinkToCart
+---
+2020/04/11 17:53:20 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/js/least.min.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/js/least.min.js
+HTTP_REFERER=https://metrohop.site/Cart/LinkToCart
+---
+2020/04/11 17:53:20 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "scripts/product_description/jquery.magnify.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('scripts/product...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/scripts/product_description/jquery.magnify.js
+HTTP_REFERER=https://metrohop.site/Cart/LinkToCart
+---
+2020/04/11 17:53:20 [error] [exception.CHttpException.404] CHttpException: Системе не удалось найти запрашиваемое действие "view". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CController.php(270): CController->missingAction('view')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(282): CController->run('view')
+#2 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Cart/view')
+#3 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/Cart/1
+HTTP_REFERER=https://metrohop.site/Cart/LinkToCart
+---
+2020/04/11 17:53:20 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "scripts/main/search.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('scripts/main/se...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/scripts/main/search.js
+HTTP_REFERER=https://metrohop.site/Cart/LinkToCart
+---
+2020/04/11 17:53:22 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/rate/script.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/rate/sc...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/rate/script.js
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:53:22 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "scripts/main/search.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('scripts/main/se...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/scripts/main/search.js
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:53:22 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "scripts/product_description/jquery.magnify.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('scripts/product...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/scripts/product_description/jquery.magnify.js
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:53:22 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/js/jquery.lazyload.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/js/jquery.lazyload.js
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:53:22 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/js/least.min.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/js/least.min.js
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:53:23 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/rate/css/base.css". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/rate/cs...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/rate/css/base.css
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:53:23 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/rate/css/registration.css". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/rate/cs...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/rate/css/registration.css
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:53:23 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/rate/stars.css". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/rate/st...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/rate/stars.css
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:53:23 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/css/least.min.css". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/css/least.min.css
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:53:23 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/css/style.min.css". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/css/style.min.css
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:53:23 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/js/jquery.lazyload.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/js/jquery.lazyload.js
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:53:23 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/js/least.min.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/js/least.min.js
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:53:23 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "scripts/product_description/jquery.magnify.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('scripts/product...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/scripts/product_description/jquery.magnify.js
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:53:23 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "scripts/main/search.js". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('scripts/main/se...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/scripts/main/search.js
+HTTP_REFERER=https://metrohop.site/Productdescription/ProductDetailedDescription/386
+---
+2020/04/11 17:53:23 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "wimg/buyer/sprite/bp-icon.png". in /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/u0764921/public_html/metrohop.site/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('wimg/buyer/spri...')
+#1 /var/www/u0764921/public_html/metrohop.site/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/u0764921/public_html/metrohop.site/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/wimg/buyer/sprite/bp-icon.png?t=421d67f9_0
+HTTP_REFERER=https://metrohop.site/css/details_info.css
+2020/04/08 10:09:44 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/css/least.min.css". in D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\OpenServer\OSPanel\domains\metrohop.site\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/css/least.min.css
+HTTP_REFERER=http://metrohop.site/
+---
+2020/04/08 10:09:44 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/rate/stars.css". in D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('captcha/rate/st...')
+#1 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\OpenServer\OSPanel\domains\metrohop.site\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/rate/stars.css
+HTTP_REFERER=http://metrohop.site/
+---
+2020/04/08 10:09:44 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/rate/css/registration.css". in D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('captcha/rate/cs...')
+#1 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\OpenServer\OSPanel\domains\metrohop.site\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/rate/css/registration.css
+HTTP_REFERER=http://metrohop.site/
+---
+2020/04/08 10:09:44 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/rate/css/base.css". in D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('captcha/rate/cs...')
+#1 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\OpenServer\OSPanel\domains\metrohop.site\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/rate/css/base.css
+HTTP_REFERER=http://metrohop.site/
+---
+2020/04/08 10:09:44 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/css/style.min.css". in D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\OpenServer\OSPanel\domains\metrohop.site\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/css/style.min.css
+HTTP_REFERER=http://metrohop.site/
+---
+2020/04/08 10:09:45 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/rate/script.js". in D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('captcha/rate/sc...')
+#1 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\OpenServer\OSPanel\domains\metrohop.site\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/rate/script.js
+HTTP_REFERER=http://metrohop.site/
+---
+2020/04/08 10:09:45 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/js/jquery.lazyload.js". in D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\OpenServer\OSPanel\domains\metrohop.site\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/js/jquery.lazyload.js
+HTTP_REFERER=http://metrohop.site/
+---
+2020/04/08 10:09:45 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "scripts/product_description/jquery.magnify.js". in D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('scripts/product...')
+#1 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\OpenServer\OSPanel\domains\metrohop.site\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/scripts/product_description/jquery.magnify.js
+HTTP_REFERER=http://metrohop.site/
+---
+2020/04/08 10:09:45 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "1". in D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1')
+#1 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\OpenServer\OSPanel\domains\metrohop.site\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/1
+HTTP_REFERER=http://metrohop.site/
+---
+2020/04/08 10:09:45 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/js/least.min.js". in D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\OpenServer\OSPanel\domains\metrohop.site\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/js/least.min.js
+HTTP_REFERER=http://metrohop.site/
+---
+2020/04/08 10:09:45 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "scripts/main/search.js". in D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('scripts/main/se...')
+#1 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\OpenServer\OSPanel\domains\metrohop.site\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/scripts/main/search.js
+HTTP_REFERER=http://metrohop.site/
+---
+2020/04/08 10:09:45 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/rate/script.js". in D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('captcha/rate/sc...')
+#1 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\OpenServer\OSPanel\domains\metrohop.site\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/rate/script.js
+HTTP_REFERER=http://metrohop.site/
+---
+2020/04/08 10:09:45 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/rate/css/registration.css". in D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('captcha/rate/cs...')
+#1 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\OpenServer\OSPanel\domains\metrohop.site\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/rate/css/registration.css
+HTTP_REFERER=http://metrohop.site/
+---
+2020/04/08 10:09:45 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/css/least.min.css". in D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\OpenServer\OSPanel\domains\metrohop.site\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/css/least.min.css
+HTTP_REFERER=http://metrohop.site/
+---
+2020/04/08 10:09:45 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/rate/stars.css". in D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('captcha/rate/st...')
+#1 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\OpenServer\OSPanel\domains\metrohop.site\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/rate/stars.css
+HTTP_REFERER=http://metrohop.site/
+---
+2020/04/08 10:09:45 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/css/style.min.css". in D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\OpenServer\OSPanel\domains\metrohop.site\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/css/style.min.css
+HTTP_REFERER=http://metrohop.site/
+---
+2020/04/08 10:09:45 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/rate/css/base.css". in D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('captcha/rate/cs...')
+#1 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\OpenServer\OSPanel\domains\metrohop.site\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/rate/css/base.css
+HTTP_REFERER=http://metrohop.site/
+---
+2020/04/08 10:09:46 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "scripts/product_description/jquery.magnify.js". in D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('scripts/product...')
+#1 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\OpenServer\OSPanel\domains\metrohop.site\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/scripts/product_description/jquery.magnify.js
+HTTP_REFERER=http://metrohop.site/
+---
+2020/04/08 10:09:46 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/js/least.min.js". in D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\OpenServer\OSPanel\domains\metrohop.site\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/js/least.min.js
+HTTP_REFERER=http://metrohop.site/
+---
+2020/04/08 10:09:46 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/js/jquery.lazyload.js". in D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\OpenServer\OSPanel\domains\metrohop.site\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/js/jquery.lazyload.js
+HTTP_REFERER=http://metrohop.site/
+---
+2020/04/08 10:09:46 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "1". in D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1')
+#1 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\OpenServer\OSPanel\domains\metrohop.site\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/1
+HTTP_REFERER=http://metrohop.site/
+---
+2020/04/08 10:09:46 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "scripts/main/search.js". in D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('scripts/main/se...')
+#1 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\OpenServer\OSPanel\domains\metrohop.site\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/scripts/main/search.js
+HTTP_REFERER=http://metrohop.site/
+---
+2020/04/08 10:09:46 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/rate/css/base.css". in D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('captcha/rate/cs...')
+#1 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\OpenServer\OSPanel\domains\metrohop.site\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/rate/css/base.css
+HTTP_REFERER=http://metrohop.site/
+---
+2020/04/08 10:09:46 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/rate/stars.css". in D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('captcha/rate/st...')
+#1 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\OpenServer\OSPanel\domains\metrohop.site\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/rate/stars.css
+HTTP_REFERER=http://metrohop.site/
+---
+2020/04/08 10:09:46 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/rate/css/registration.css". in D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('captcha/rate/cs...')
+#1 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\OpenServer\OSPanel\domains\metrohop.site\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/rate/css/registration.css
+HTTP_REFERER=http://metrohop.site/
+---
+2020/04/08 10:09:46 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/rate/script.js". in D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('captcha/rate/sc...')
+#1 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\OpenServer\OSPanel\domains\metrohop.site\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/rate/script.js
+HTTP_REFERER=http://metrohop.site/
+---
+2020/04/08 10:09:46 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/css/least.min.css". in D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\OpenServer\OSPanel\domains\metrohop.site\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/css/least.min.css
+HTTP_REFERER=http://metrohop.site/
+---
+2020/04/08 10:09:46 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/css/style.min.css". in D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\OpenServer\OSPanel\domains\metrohop.site\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/css/style.min.css
+HTTP_REFERER=http://metrohop.site/
+---
+2020/04/08 10:09:46 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/js/jquery.lazyload.js". in D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\OpenServer\OSPanel\domains\metrohop.site\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/js/jquery.lazyload.js
+HTTP_REFERER=http://metrohop.site/
+---
+2020/04/08 10:09:46 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/js/least.min.js". in D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\OpenServer\OSPanel\domains\metrohop.site\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/js/least.min.js
+HTTP_REFERER=http://metrohop.site/
+---
+2020/04/08 10:09:46 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "scripts/product_description/jquery.magnify.js". in D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('scripts/product...')
+#1 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\OpenServer\OSPanel\domains\metrohop.site\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/scripts/product_description/jquery.magnify.js
+HTTP_REFERER=http://metrohop.site/
+---
+2020/04/08 10:09:46 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "1". in D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1')
+#1 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\OpenServer\OSPanel\domains\metrohop.site\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/1
+HTTP_REFERER=http://metrohop.site/
+---
+2020/04/08 10:09:47 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "scripts/main/search.js". in D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('scripts/main/se...')
+#1 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\OpenServer\OSPanel\domains\metrohop.site\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/scripts/main/search.js
+HTTP_REFERER=http://metrohop.site/
+---
+2020/04/08 10:10:00 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/rate/css/base.css". in D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('captcha/rate/cs...')
+#1 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\OpenServer\OSPanel\domains\metrohop.site\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/rate/css/base.css
+HTTP_REFERER=http://metrohop.site/
+---
+2020/04/08 10:10:00 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/rate/stars.css". in D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('captcha/rate/st...')
+#1 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\OpenServer\OSPanel\domains\metrohop.site\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/rate/stars.css
+HTTP_REFERER=http://metrohop.site/
+---
+2020/04/08 10:10:00 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/css/least.min.css". in D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\OpenServer\OSPanel\domains\metrohop.site\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/css/least.min.css
+HTTP_REFERER=http://metrohop.site/
+---
+2020/04/08 10:10:00 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/css/style.min.css". in D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\OpenServer\OSPanel\domains\metrohop.site\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/css/style.min.css
+HTTP_REFERER=http://metrohop.site/
+---
+2020/04/08 10:10:00 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/rate/script.js". in D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('captcha/rate/sc...')
+#1 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\OpenServer\OSPanel\domains\metrohop.site\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/rate/script.js
+HTTP_REFERER=http://metrohop.site/
+---
+2020/04/08 10:10:00 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/rate/css/registration.css". in D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('captcha/rate/cs...')
+#1 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\OpenServer\OSPanel\domains\metrohop.site\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/rate/css/registration.css
+HTTP_REFERER=http://metrohop.site/
+---
+2020/04/08 10:10:00 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/js/jquery.lazyload.js". in D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\OpenServer\OSPanel\domains\metrohop.site\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/js/jquery.lazyload.js
+HTTP_REFERER=http://metrohop.site/
+---
+2020/04/08 10:10:00 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/js/least.min.js". in D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\OpenServer\OSPanel\domains\metrohop.site\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/js/least.min.js
+HTTP_REFERER=http://metrohop.site/
+---
+2020/04/08 10:10:00 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "1". in D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1')
+#1 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\OpenServer\OSPanel\domains\metrohop.site\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/1
+HTTP_REFERER=http://metrohop.site/
+---
+2020/04/08 10:10:00 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "scripts/main/search.js". in D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('scripts/main/se...')
+#1 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\OpenServer\OSPanel\domains\metrohop.site\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/scripts/main/search.js
+HTTP_REFERER=http://metrohop.site/
+---
+2020/04/08 10:10:00 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/css/style.min.css". in D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\OpenServer\OSPanel\domains\metrohop.site\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/css/style.min.css
+HTTP_REFERER=http://metrohop.site/
+---
+2020/04/08 10:10:00 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "scripts/product_description/jquery.magnify.js". in D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('scripts/product...')
+#1 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\OpenServer\OSPanel\domains\metrohop.site\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/scripts/product_description/jquery.magnify.js
+HTTP_REFERER=http://metrohop.site/
+---
+2020/04/08 10:10:00 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/css/least.min.css". in D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\OpenServer\OSPanel\domains\metrohop.site\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/css/least.min.css
+HTTP_REFERER=http://metrohop.site/
+---
+2020/04/08 10:10:00 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "captcha/gallery_for_Order/js/least.min.js". in D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('captcha/gallery...')
+#1 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\OpenServer\OSPanel\domains\metrohop.site\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/captcha/gallery_for_Order/js/least.min.js
+HTTP_REFERER=http://metrohop.site/
+---
+2020/04/08 10:10:00 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "scripts/product_description/jquery.magnify.js". in D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('scripts/product...')
+#1 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\OpenServer\OSPanel\domains\metrohop.site\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/scripts/product_description/jquery.magnify.js
+HTTP_REFERER=http://metrohop.site/
+---
+2020/04/08 10:10:00 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "1". in D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1')
+#1 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\OpenServer\OSPanel\domains\metrohop.site\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/1
+HTTP_REFERER=http://metrohop.site/
+---
+2020/04/08 10:10:00 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "scripts/main/search.js". in D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('scripts/main/se...')
+#1 D:\OpenServer\OSPanel\domains\metrohop.site\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\OpenServer\OSPanel\domains\metrohop.site\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/scripts/main/search.js
+HTTP_REFERER=http://metrohop.site/
+---

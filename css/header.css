@@ -1,0 +1,441 @@
+.hdSimple {
+    height: 100px;
+    margin-bottom: 28px;
+}
+
+.header {
+    background: none repeat scroll 0 0 #ededed;
+    height: 132px;
+    position: relative;
+    z-index: 10;
+    border-right: 4px double black;
+    border-left: 4px double black;
+}
+
+.CMenuLink{
+    cursor: pointer;
+}
+
+.utilClearfix:after {
+    clear: both;
+    content: " ";
+    display: block;
+    font-size: 0;
+    height: 0;
+    visibility: hidden;
+}
+
+.header .layout {
+    max-width: 1020px;
+    min-width: 817px;
+    width: auto;
+}
+
+.hdSimple .layout {
+    margin: 0 auto;
+    padding-left: 190px;
+    width: 800px;
+}
+
+.header .layout {
+    margin: 0 auto;
+    padding-left: 240px;
+    width: 750px;
+}
+
+.logo {
+    background-image: url("/images/logo/mainlogotip.png");
+    background-repeat: no-repeat;
+    float: left;
+    height: 82px;
+    margin: 28px 0 0 -265px;
+    overflow: hidden;
+    position: absolute;
+    width: 206px;
+    z-index: 0;
+}
+
+.hdSimple .logo {
+    background-image: url("../images/logo/mainlogotip.png");
+    background-repeat: no-repeat;
+    height: 149%;
+    margin: -66px 0 0 -342px;
+    width: 26%;
+}
+
+.hdSimple .logo a {
+    padding-top: 52px;
+}
+
+.logo a {
+    float: left;
+    height: 0;
+    overflow: hidden;
+    padding-top: 73px;
+    width: 100%;
+}
+
+a {
+    color: #06c;
+    text-decoration: none;
+}
+
+.productNameLink{
+    color: #894d12;
+    text-decoration: none;
+}
+
+.productNameLink:hover{
+    text-decoration:underline;
+}
+
+.userNameP{
+    font-family: Georgia,"Times New Roman",Times,serif;
+    cursor: pointer;
+    border-radius: 9px !important;
+    color: #894d12 !important;
+    left: 100px;
+    margin-left: 85px;
+    margin-top: 58px;
+    font-size: 39px;
+}
+
+.userNameP:hover{
+  text-decoration: underline;
+}
+
+.userShowInfo{
+    background: none repeat scroll 0 0 white;
+    border: 4px double #000000;
+    height: 129px;
+    margin: -2px -180px;
+    position: relative;
+    width: 338px;
+    z-index: 200;
+    display: none;
+}
+
+.userPrivateOfficeExitModal{
+    border-radius: 9px !important;
+    color: #894d12 !important;
+    height: 24px !important;
+    margin: 4px 246px;
+    position: relative;
+    width: 88px;
+}
+
+.userPrivateOfficeExitModal:hover{
+    background: darkorange !important;
+    color:#ffffff !important;
+}
+
+.userCloseLoginModal{
+    float: right;
+    margin-right: 0;
+    width: 34px;
+}
+.userCloseLoginModal:hover{
+    width: 38px;
+}
+
+.textNameModal{
+    margin: 27px 85px;
+    position: absolute;
+    color: #000000;
+    font-size: 20px;
+}
+
+.textName{
+    position: absolute;
+    color: #000000;
+    font-size: 20px;
+    left: 7px;
+}
+
+.userNameCenter{
+    text-align: center;
+    position: absolute;
+    margin: 47px 55px;
+}
+
+.userName{
+    cursor: pointer;
+    color: #894d12;
+    font-size: 18px;
+}
+
+.userName:hover{
+    text-decoration: underline;
+}
+
+.userNameCenter{
+    text-align: center;
+    position: absolute;
+    margin: 47px 55px;
+}
+
+.userNameUnreg{
+    cursor: pointer;
+    color: #000000;
+    font-size: 18px;
+}
+
+.userNameUnregCenter{
+    text-align: center;
+    position: absolute;
+    margin-top: 29px;
+}
+
+.userNameUnregText{
+    color: #894d12;
+    font-size: 11px;
+    margin: 61px 54px;
+    position: absolute;
+}
+
+#enterModalID{
+    color: darkorange;
+    text-decoration: underline;
+}
+
+#enterModalID:hover{
+    color: orangered;
+}
+
+#regModalID{
+    color: darkorange;
+    text-decoration: underline;
+}
+
+#regModalID:hover{
+    color: darkorange;
+}
+
+.userPrivateOfficeModal{
+    border-radius: 9px !important;
+    color: #894d12 !important;
+    margin:4px 85px;
+    position: absolute;
+    width: 142px;
+    height: 24px !important;
+}
+
+.userPrivateOfficeModal:hover{
+    background: darkorange !important;
+    color:#ffffff !important;
+}
+
+.imgUserModal{
+    position: absolute;
+    left:-21px;
+}
+
+.userName{
+    position: absolute;
+    font-size: 18px;
+}
+
+.smallPanelUserBeforeHover{
+    background: none repeat scroll 0 0 #ffffff;
+    border-left: 1px double orange;
+    display: block;
+    height: 86px;
+    left: 138px;
+    position: relative;
+    top: -104px;
+    width: 145px;
+}
+
+.imgUser{
+    cursor: pointer;
+    margin-left: -8px;
+    margin-top: 28px;
+    position: absolute;
+    width: 57px;
+}
+
+.imgUser:hover{
+   background: #ffff00;
+}
+
+.cartPrice{
+    background: none repeat scroll 0 0 white;
+    height: 21px;
+    margin: -80px 65px;
+    position: absolute;
+    text-align: center;
+    list-style-type: none;
+}
+
+.cartSumm{
+    list-style-type: none;
+    color: #894d12 !important;
+    font-family: Arial,"Helvetica Neue",Helvetica,sans-serif;
+    font-size: 20px;
+}
+
+.someList{
+    background: none repeat scroll 0 0 darkorange;
+    height: 33px;
+    left: 0;
+    position: absolute;
+    top: 102%;
+    width: 148px;
+}
+
+.someList p{
+    text-align: center;
+    font-size: 20px;
+    font-family: Georgia,"Times New Roman",Times,serif;
+    width: 186px;
+    color:#894d12 !important;
+}
+
+.arrowUpIcon{
+    height: 39px;
+    position: absolute;
+    width: 41px;
+    margin: -40px 109px 0px 0px;
+}
+
+.arrowDownIcon{
+    height: 39px;
+    position: absolute;
+    width: 41px;
+    margin: -40px 109px 0px 0px;
+    display: none;
+}
+
+#mainMenuRightLoginReg{
+    background: url("../images/logo/time4bed_bg.gif") repeat-x scroll left bottom #fff;
+    font-family: Georgia,"Times New Roman",Times,serif;
+    font-size: 14px;
+    height: 43px;
+    left: 80.9%;
+    position: relative;
+    text-transform: uppercase;
+    top: -43px;
+    width: 239px;
+    cursor: pointer;
+}
+
+#mainMenuRightLoginReg ul{margin:0;padding:0;list-style-type:none;width:auto;float:left;}
+#mainMenuRightLoginReg ul li{display:block;float:left;margin:0 2px;}
+#mainMenuRightLoginReg ul li span
+{display:block;float:left;color:#ffdab6;text-decoration:none;padding:0 17px 0 25px;height:43px;line-height:50px;}
+#mainMenuRightLoginReg ul li span span{display:block;float:left;padding:0 25px 0 0;height:31px;width:auto;}
+#mainMenuRightLoginReg ul li span:hover{color:#fff;}
+#mainMenuRightLoginReg ul li span:hover span{display:block;cursor:pointer;}
+#mainMenuRightLoginReg ul li span.current,
+#time4bed-nav ul li span.current:hover{
+    color:#894d12;
+    background:transparent url("../images/logo/time2bed_left-ON.gif") no-repeat top left;
+}
+
+#mainMenuRightLoginReg ul li a{display:block;float:left;margin:0 0px;}
+#mainMenuRightLoginReg ul li a
+{display:block;float:left;color:#ffdab6;text-decoration:none;padding:0 17px 0 25px;height:43px;line-height:50px;}
+#mainMenuRightLoginReg ul li a a{display:block;float:left;padding:0 25px 0 0;height:31px;width:auto;}
+#mainMenuRightLoginReg ul li a:hover{color:#fff;}
+#mainMenuRightLoginReg ul li a:hover a{display:block;cursor:pointer;}
+#mainMenuRightLoginReg ul li a.current,
+#time4bed-nav ul li a.current:hover{
+    color:#894d12;
+    background:transparent url("../images/logo/time2bed_left-ON.gif") no-repeat top left;
+}
+
+#divSearchID{
+    position: absolute;
+    margin: 1% 28%;
+    width:37%;
+}
+
+.btnSearch{
+    color: #894d12 !important;
+}
+
+.btnSearch:hover{
+    background: darkorange !important;
+    color:#ffffff !important;
+}
+
+.mysearch{
+    border-radius: 0px !important;
+    width: 73%;
+    box-shadow: 1px 0 2px 0 rgba(0, 0, 0, 0.5) inset !important;
+}
+
+#cartUserPanel{
+    height: 88px;
+    left: 76%;
+    position: relative;
+    top: -31%;
+    width: 301px;
+}
+
+.cartPart{
+    width: 138px
+}
+
+.cartName{
+    position: relative;
+    list-style: none outside none;
+    margin-left: -6px;
+    font-family: Rockwell, "Courier Bold", Courier, Georgia, Times, "Times New Roman", serif;
+    color: #000000;
+    font-size: 19px;
+    padding: 14;
+    font-weight: bold;
+}
+
+.cartName:hover{
+    text-decoration: underline;
+    color:#894d12 !important
+}
+
+/* ---------------------- Dolphin nav ---------------------- */
+#mainMiddleMenu{
+    background: url("../images/logo/time4bed_bg.gif") repeat-x scroll left bottom #fff;
+    font-family: Georgia,"Times New Roman",Times,serif;
+    font-size: 14px;
+    height: 43px;
+    left: 27%;
+    position: relative;
+    text-transform: uppercase;
+    width: 679px;
+}
+#mainMiddleMenu ul{margin:0;padding:0;list-style-type:none;width:auto;float:left;}
+#mainMiddleMenu ul li{display:block;float:left;margin:0 2px;}
+#mainMiddleMenu ul li a
+{display:block;float:left;color:#ffdab6;text-decoration:none;padding:0 17px 0 25px;height:43px;line-height:50px;}
+#mainMiddleMenu ul li a span{display:block;float:left;padding:0 25px 0 0;height:31px;width:auto;}
+#mainMiddleMenu ul li a:hover{color:#fff;}
+#mainMiddleMenu ul li a:hover span{display:block;cursor:pointer;}
+#mainMiddleMenu ul li a.current,
+#time4bed-nav ul li a.current:hover{
+    color:#894d12;
+    background:transparent url("../images/logo/time2bed_left-ON.gif") no-repeat top left;
+}
+#mainMiddleMenu ul li a.current span{
+    background:transparent
+    url("../images/logo/time2bed_right-ON.gif") no-repeat top right;
+    height:43px;}
+
+.active{
+    width:auto;
+}
+
+#imgCloseSmallSearchDiv{
+    float: right;
+}
+#imgCloseSmallSearchDiv:hover{
+    width: 40px;
+    height: 40px;
+}
+
+
+
+
+
+
+

@@ -1,0 +1,48 @@
+.mainDivContactClass{
+    position: relative;
+    height: 994px;
+}
+
+.divContact{
+    position: absolute;
+    margin: 10px 450px;
+}
+
+.wrapperCaptcha{
+    text-align: center;
+    width: 300px;
+}
+
+.hint{
+    width: 300px;
+}
+
+#buttonContact{
+    text-align: center;
+    max-width: 323px;
+}
+
+.imgContactWrapperClass{
+    position: absolute;
+}
+
+#imgContactWrapperIDFirst{
+    margin-left:736px;
+    width: 555px;
+}
+
+#imgContactWrapperIDSecond{
+    width: 445px;
+    margin-left: 791px;
+    margin-top: 303px;
+}
+
+#imgContactWrapperIDThird{
+    width: 145px;
+    margin-left: 67px;
+    margin-top: 349px;
+}
+
+#imgContactClassLeftID{
+    width: 355px;
+}
